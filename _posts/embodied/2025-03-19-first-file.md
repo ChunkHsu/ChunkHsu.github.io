@@ -4,7 +4,7 @@ title:      "First File"
 subtitle:   "Hello World, Hello Blog"
 date:       2025-03-19 23:01:00
 author:     "Chunk"
-header-img: "img/pixiv/SKELETONLIFE16.jpg"
+header-img: "img/pixiv/初岚_miku.jpg"
 tags:
     - Embodied AI
 ---
